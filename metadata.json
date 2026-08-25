@@ -1,0 +1,6 @@
+{
+  "name": "Vyapar - GST Billing & Accounting",
+  "description": "GST Billing, Invoicing, Inventory & Accounting manager with ledger statements, reports and party management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
